@@ -611,7 +611,7 @@ for the-f a personalized road change, please do not use otherwise!
 */
 
 /*
-disabled due MOO.exe MLODs ;)
+disabled due MLODs from other sources ;)
 	if (strcmp (dObjName,"ca\\plants\\palm_01.p3d") == 0) { dDir += 5.7; dDir -= 1000; };
 	if (strcmp (dObjName,"ca\\plants\\palm_02.p3d") == 0) { dDir += 6.9; dDir -= 1000; };
 	if (strcmp (dObjName,"ca\\plants\\palm_03.p3d") == 0) { dDir += 6.9; dDir -= 1000; };

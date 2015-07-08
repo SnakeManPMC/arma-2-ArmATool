@@ -32,7 +32,7 @@ armaTool::armaTool(int argc, char *argv[])
 
 void armaTool::Header()
 {
-    printf("\nArmATool (c) PMC 2006-2012.\n\n");
+    printf("\nArmATool (c) PMC 2006-2015.\n\n");
 };
 
 /*
